@@ -19,6 +19,7 @@ jobs:
           - ManageWiki
           - MatomoAnalytics
           - MirahezeMagic
+          - MirahezeRequests
           - PDFEmbed
           - RemovePII
           - RequestCustomDomain
